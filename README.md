@@ -1,2 +1,2 @@
-# jupiter_p-gina
+# jupiter_pagina
 Página sobre júpiter
